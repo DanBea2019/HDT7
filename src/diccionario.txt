@@ -1,0 +1,10 @@
+today,hoy 
+run,correr 
+house,casa
+dog,perro
+with,con
+apple, manzana
+shoes, zapato
+eat, comi
+to, a
+and, y
